@@ -1,2 +1,5 @@
 # hello-world
-Hopefully I am able to learn something during this tutorial
+
+I have learned so much during this tutorial!
+
+Well here goes nothing.
